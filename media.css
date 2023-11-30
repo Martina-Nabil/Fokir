@@ -1,0 +1,83 @@
+
+@media (max-width: 1399.98px) {  }
+
+@media (max-width: 1199.98px) { 
+   
+ }
+
+@media (max-width: 991.98px) {
+    #about .about-img{
+        border: none;     
+    }
+    #about .about-content{
+        width: 70%;
+    }
+    #services .services-content{
+        width: 50%;
+    }
+    #portfolio .portfolio-img{
+        width: 50%;
+    }
+    #blog .blog-content{
+        width: 50%;
+    }
+
+  }
+
+@media (max-width: 767.98px) {
+    #home .caption h1{
+        font-size:38px;
+    }
+    #home .caption .wrapper h4{
+        font-size: 18px;
+    }
+    #about .about-img{
+        width: 100%;    
+    }
+    #about .about-content{
+        width: 80%;
+        padding-top: 50px;
+    }
+    #services .services-content{
+        width: 100%;
+    }
+    #portfolio .portfolio-img{
+        width: 100%;
+    }
+    .section5 .content{
+        width: 100%;
+    }
+    #feedback .card .card-img{
+        width:50%;
+    }
+    #feedback .card .card-content{
+       padding-left: 20px;
+       width: 80%;
+    }
+    #blog .blog-content{
+        width: 100%;
+    }
+    #contact-us .contact-us-content .contact-us-content-caption1{
+        width: 100%;
+    }
+    #contact-us .contact-us-content .subject{
+        width: 100%;
+    }
+    #contact-us .contact-us-content .message{
+        width: 100%;
+    }
+    .footer .footer-icons i{
+        font-size: 15px;
+    }
+
+ }
+
+@media (max-width: 575.98px) {  }
+
+
+
+
+
+
+
+
